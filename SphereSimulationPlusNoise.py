@@ -7,6 +7,8 @@ from skimage import data, img_as_float
 from skimage.restoration import denoise_tv_chambolle, denoise_bilateral
 import pandas as pd
 
+#Tiff files
+#Taken off
 
 
 def make_sphere(xMat,yMat,x,y,r):
